@@ -3,7 +3,7 @@ import Foundation
 class GrokInterface {
     let websocket: URLSessionWebSocketTask
     init() {
-        let url = URL(string: "ws://grok.xai:8080")! // Hypothetical
+        let url = URL(string: "ws://localhost:8080")!
         let session = URLSession(configuration: .default)
         self.websocket = session.webSocketTask(with: url)
         websocket.resume()
