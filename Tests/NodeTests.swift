@@ -10,6 +10,6 @@ class NodeTests: XCTestCase {
     func testQueryProcessing() async throws {
         let node = try await SelfEvolvingFractalGossipNode(peer_id: "test")
         let response = await node.process_query("Hello")
-        XCTAssert(response.contains("v4.7.0"))
+        XCTAssert(response.contains("v4.7.4"))
     }
 }
