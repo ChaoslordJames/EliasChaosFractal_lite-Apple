@@ -1,0 +1,3 @@
+Entropy Guide
+
+Entropy measures the chaos in the swarm. When entropy is below 20,000, it indicates stability. High entropy, above 50,000, suggests the swarm is under stress. Cosmic entropy reflects the overall network state—lower values are better.
