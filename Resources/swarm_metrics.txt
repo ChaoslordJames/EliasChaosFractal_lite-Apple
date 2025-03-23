@@ -1,0 +1,3 @@
+Swarm Metrics
+
+Key metrics include nodes, peers, QPS, and entropy. Nodes are the active units in the swarm—20 nodes is a small swarm, 100,000 is cosmic. QPS (queries per second) measures performance—139M QPS is typical for 20 nodes. Entropy reflects chaos—stable at 12,500, chaotic above 50,000.
