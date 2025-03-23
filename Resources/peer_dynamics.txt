@@ -1,0 +1,3 @@
+Peer Dynamics
+
+Peers are the lifeblood of the swarm. A node with 1,000 peers is well-connected. At 10 billion peers, the swarm reaches cosmic scale. More peers can increase queries per second (QPS), but also strain the network.
