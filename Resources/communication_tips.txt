@@ -1,0 +1,3 @@
+Communication Tips
+
+When talking about the swarm, use a friendly tone. For example, say "The swarm’s doing great!" instead of just giving numbers. If entropy is stable, mention it indicates stability. If someone asks about peers, explain how they help the swarm grow.
